@@ -3,36 +3,47 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Display state: GROUPING BY STATUS AND APPLYING SORTING BASED ON PRIORITY
-![image](https://github.com/AryamanParida/Kanban-board-application/assets/77320949/b9e031a4-e5b3-42f2-8244-bf3fd8cf9375)
-![image](https://github.com/AryamanParida/Kanban-board-application/assets/77320949/58e8d5a5-fcf8-495a-80b5-ae499a9ab830)
+![image](https://github.com/AryamanParida/Kanban-board-web-app/assets/77320949/50328f36-c5d1-4fb4-a4e9-b0cdf85880c9)
+![image](https://github.com/AryamanParida/Kanban-board-web-app/assets/77320949/eff5eb47-cc76-4c30-9439-7e86db3c5d62)
+![image](https://github.com/AryamanParida/Kanban-board-web-app/assets/77320949/0846771d-be97-468f-9137-c3a16aa82ae9)
 
 ## State based on display.- GROUPING BY STATUS AND APPLYING SORTING BASED ON TITLE
-![image](https://github.com/AryamanParida/Kanban-board-application/assets/77320949/a74ddff3-ab6b-43a0-b964-3e105953ad99)
-![image](https://github.com/AryamanParida/Kanban-board-application/assets/77320949/77b24bc0-916e-42df-9221-a9648c13b56b)
+![image](https://github.com/AryamanParida/Kanban-board-web-app/assets/77320949/58c6f2eb-2786-44c5-844a-78bf7b43d664)
+![image](https://github.com/AryamanParida/Kanban-board-web-app/assets/77320949/522d7161-7d0a-4fc1-ba14-8580ee88d5ed)
+![image](https://github.com/AryamanParida/Kanban-board-web-app/assets/77320949/86a40731-e8c0-4d45-b748-ed5dcef1d2a8)
+
 
 ## State based on display. GROUPING BY USER AND APPLYING SORTING BASED ON PRIORITY
-![image](https://github.com/AryamanParida/Kanban-board-application/assets/77320949/c1735dfe-48ef-47f4-be06-24400ed51505)
+![image](https://github.com/AryamanParida/Kanban-board-web-app/assets/77320949/0b8260bf-b92b-433c-b1ac-7225316e1c6f)
+![image](https://github.com/AryamanParida/Kanban-board-web-app/assets/77320949/72c648d1-548c-4cee-a283-6cc0a06e4cda)
+![image](https://github.com/AryamanParida/Kanban-board-web-app/assets/77320949/391936de-387a-49bd-9814-166f0c1c069a)
+
 
 ## State based on display. GROUPING BY USER AND APPLYING SORTING BASED ON TITLE
-![image](https://github.com/AryamanParida/Kanban-board-application/assets/77320949/23e42177-0896-4269-b1e6-2c8746b278b3)
+![image](https://github.com/AryamanParida/Kanban-board-web-app/assets/77320949/1ccadf80-2230-41a9-b181-ff245efa0f03)
+![image](https://github.com/AryamanParida/Kanban-board-web-app/assets/77320949/b610cc37-6d90-427d-b564-4710f810d601)
 
 ## State based on display. GROUPING BY PRIORITY AND APPLYING SORTING BASED ON PRIORITY
-![image](https://github.com/AryamanParida/Kanban-board-application/assets/77320949/878ef385-fc5a-45aa-ab9b-fa7299ac9871)
+![image](https://github.com/AryamanParida/Kanban-board-web-app/assets/77320949/6b564cd5-ac08-42d4-9324-cc5d773896e2)
+![image](https://github.com/AryamanParida/Kanban-board-web-app/assets/77320949/711aae84-0ea8-47eb-8fde-b2f702057b2f)
+
 
 ## State based on display. GROUPING BY PRIORITY AND APPLYING SORTING BASED ON TITLE
-![image](https://github.com/AryamanParida/Kanban-board-application/assets/77320949/9bb08e9d-9ce5-4a91-a8bd-6116281b39b4)
+![image](https://github.com/AryamanParida/Kanban-board-web-app/assets/77320949/826830fa-89f5-4a7d-9e53-090c57ac2108)
+![image](https://github.com/AryamanParida/Kanban-board-web-app/assets/77320949/49226ba9-9dc0-4068-840d-743e0e459216)
+
 
 ## THIS WEB APP ALSO SAVES THE USER'S VIEW STATE EVEN AFTER RELOADING THE PAGE
-![image](https://github.com/AryamanParida/Kanban-board-application/assets/77320949/02fb6f6f-b825-420f-98dd-a56d5398990f)
+![image](https://github.com/AryamanParida/Kanban-board-web-app/assets/77320949/c70d9620-863f-42eb-9bc4-1eaebb8fe325)
 
 # PAGE RELOADING
-![image](https://github.com/AryamanParida/Kanban-board-application/assets/77320949/6cdfdb72-ac06-4c2e-ab3a-ca619e3611c9)
+![image](https://github.com/AryamanParida/Kanban-board-web-app/assets/77320949/04422681-5515-4ef9-a66e-176bb0a1ccf2)
 
 # SAME VIEW STATE
-![image](https://github.com/AryamanParida/Kanban-board-application/assets/77320949/d5563f34-83a0-4cbf-a224-e9256e9f737e)
+![image](https://github.com/AryamanParida/Kanban-board-web-app/assets/77320949/1b990e1b-bb68-42ce-9c3c-168aff6e6721)
 
 ## CARDS
-![image](https://github.com/AryamanParida/Kanban-board-application/assets/77320949/0d3fa7df-7e79-4bc4-8056-4d52b526c58a)
+![image](https://github.com/AryamanParida/Kanban-board-web-app/assets/77320949/cf31de8e-89f3-4c7d-8b82-28b1bdc76675)
 
 ## Available Scripts
 
