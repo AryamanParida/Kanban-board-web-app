@@ -1,8 +1,12 @@
 # Getting Started with Create React App
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Display state: GROUPING BY STATUS AND APPLYING SORTING BASED ON PRIORITY
+## LIVE LINK OF THE WEB APP
+https://kanban-board-89672.web.app/
+
+
+
+## Display state: GROUPING BY STATUS AND APPLYING SORTING BASED ON PRIORITY  (THIS IS DEFAULT WHICH MEANS THAT WHEN YOU LOAD THE WEB APP FOR FIRST TIME IT WILL ALWAYS GROUP BY STATUS AND SORT BASED ON PRIORITY)
 ![image](https://github.com/AryamanParida/Kanban-board-web-app/assets/77320949/50328f36-c5d1-4fb4-a4e9-b0cdf85880c9)
 ![image](https://github.com/AryamanParida/Kanban-board-web-app/assets/77320949/eff5eb47-cc76-4c30-9439-7e86db3c5d62)
 ![image](https://github.com/AryamanParida/Kanban-board-web-app/assets/77320949/0846771d-be97-468f-9137-c3a16aa82ae9)
@@ -46,6 +50,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## CARDS
 ![image](https://github.com/AryamanParida/Kanban-board-web-app/assets/77320949/cf31de8e-89f3-4c7d-8b82-28b1bdc76675)
 
+## FOR MAINTAINING VIEW STATE SESSION STORAGE IS USED SO EVEN AFTER RELOADING THE PAGE IT WILL HAVE THE SAME VIEW STATE
 ## Available Scripts
 
 In the project directory, you can run:
