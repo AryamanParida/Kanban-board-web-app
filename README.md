@@ -2,7 +2,6 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-
 ## Display state: GROUPING BY STATUS AND APPLYING SORTING BASED ON PRIORITY
 ![image](https://github.com/AryamanParida/Kanban-board-application/assets/77320949/b9e031a4-e5b3-42f2-8244-bf3fd8cf9375)
 ![image](https://github.com/AryamanParida/Kanban-board-application/assets/77320949/58e8d5a5-fcf8-495a-80b5-ae499a9ab830)
