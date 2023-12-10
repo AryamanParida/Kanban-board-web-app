@@ -15,13 +15,13 @@ function Card(props)
     if(props.avail)
       {
         return(
-          <img src={av} alt="" className='med' />
+          <img src={av} alt="" className='med1' />
         );
       }
       else
       {
         return(
-          <img src={na} alt="" className='med' />
+          <img src={na} alt="" className='med1' />
         );
       }
   }
