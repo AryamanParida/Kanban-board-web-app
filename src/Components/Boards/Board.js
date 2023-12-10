@@ -49,6 +49,7 @@ function Board(props) {
               title={props.board?.boardname}
               height="25px"
               width="25px"
+              className='med'
             />
           );
           break;
@@ -68,7 +69,7 @@ function Board(props) {
       switch (ind) {
         case 0: // TO DO
           return (
-            <Circle />
+            <Circle className='med'/>
           );
         case 1: // In progress
           return (
@@ -84,6 +85,7 @@ function Board(props) {
               color={'#2e2097'}
               height="25px"
               width="25px"
+              className='med'
             />
           );
           break;
@@ -93,6 +95,7 @@ function Board(props) {
               color={'#5a5859'}
               height="25px"
               width="25px"
+              className='med'
             />
           );
         default:
