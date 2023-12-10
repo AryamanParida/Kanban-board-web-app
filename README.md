@@ -2,33 +2,27 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Display state: THIS IS JUST GROUPING BY STATUS (NO SORTING HAS BEEN APPLIED)
-![image](https://github.com/AryamanParida/Kanban-board-application/assets/77320949/7702e094-a0bb-4da3-a119-c44f7c9cce5c)
-
-## State based on display. - Grouping by user is selected. (NO SORTING HAS BEEN APPLIED)
-![image](https://github.com/AryamanParida/Kanban-board-application/assets/77320949/7e34a615-7d9e-4529-92fc-8b14305957af)
-
 ## State based on display. - Grouping by Priority is selected. (NO SORTING HAS BEEN APPLIED)
 ![image](https://github.com/AryamanParida/Kanban-board-application/assets/77320949/0e78cc8a-3ac8-4108-a1a0-5d5dfb09fa5c)
 
-## GROUPING BY STATUS AND APPLYING SORTING BASED ON PRIORITY
+## Display state: GROUPING BY STATUS AND APPLYING SORTING BASED ON PRIORITY
 ![image](https://github.com/AryamanParida/Kanban-board-application/assets/77320949/b9e031a4-e5b3-42f2-8244-bf3fd8cf9375)
 ![image](https://github.com/AryamanParida/Kanban-board-application/assets/77320949/58e8d5a5-fcf8-495a-80b5-ae499a9ab830)
 
-## GROUPING BY STATUS AND APPLYING SORTING BASED ON TITLE
+## State based on display.- GROUPING BY STATUS AND APPLYING SORTING BASED ON TITLE
 ![image](https://github.com/AryamanParida/Kanban-board-application/assets/77320949/a74ddff3-ab6b-43a0-b964-3e105953ad99)
 ![image](https://github.com/AryamanParida/Kanban-board-application/assets/77320949/77b24bc0-916e-42df-9221-a9648c13b56b)
 
-## GROUPING BY USER AND APPLYING SORTING BASED ON PRIORITY
+## State based on display. GROUPING BY USER AND APPLYING SORTING BASED ON PRIORITY
 ![image](https://github.com/AryamanParida/Kanban-board-application/assets/77320949/c1735dfe-48ef-47f4-be06-24400ed51505)
 
-## GROUPING BY USER AND APPLYING SORTING BASED ON TITLE
+## State based on display. GROUPING BY USER AND APPLYING SORTING BASED ON TITLE
 ![image](https://github.com/AryamanParida/Kanban-board-application/assets/77320949/23e42177-0896-4269-b1e6-2c8746b278b3)
 
-## GROUPING BY PRIORITY AND APPLYING SORTING BASED ON PRIORITY
+## State based on display. GROUPING BY PRIORITY AND APPLYING SORTING BASED ON PRIORITY
 ![image](https://github.com/AryamanParida/Kanban-board-application/assets/77320949/878ef385-fc5a-45aa-ab9b-fa7299ac9871)
 
-## GROUPING BY PRIORITY AND APPLYING SORTING BASED ON TITLE
+## State based on display. GROUPING BY PRIORITY AND APPLYING SORTING BASED ON TITLE
 ![image](https://github.com/AryamanParida/Kanban-board-application/assets/77320949/9bb08e9d-9ce5-4a91-a8bd-6116281b39b4)
 
 ## THIS WEB APP ALSO SAVES THE USER'S VIEW STATE EVEN AFTER RELOADING THE PAGE
