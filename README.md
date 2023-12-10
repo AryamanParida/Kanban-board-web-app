@@ -14,13 +14,14 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 
 ## State based on display. GROUPING BY USER AND APPLYING SORTING BASED ON PRIORITY
-![image](https://github.com/AryamanParida/Kanban-board-web-app/assets/77320949/50ebcdd2-1836-4ccc-afde-fe82772f470c)
+![image](https://github.com/AryamanParida/Kanban-board-web-app/assets/77320949/6c5f1551-38ca-4111-9cdf-bc4788261225)
+
 ![image](https://github.com/AryamanParida/Kanban-board-web-app/assets/77320949/174b5369-f12f-4923-bb86-4f6b807efae9)
 
 
 
 ## State based on display. GROUPING BY USER AND APPLYING SORTING BASED ON TITLE
-![image](https://github.com/AryamanParida/Kanban-board-web-app/assets/77320949/1ccadf80-2230-41a9-b181-ff245efa0f03)
+![image](https://github.com/AryamanParida/Kanban-board-web-app/assets/77320949/5e4b76ee-fa7d-4c93-8797-e9a68304421b)
 ![image](https://github.com/AryamanParida/Kanban-board-web-app/assets/77320949/b610cc37-6d90-427d-b564-4710f810d601)
 
 ## State based on display. GROUPING BY PRIORITY AND APPLYING SORTING BASED ON PRIORITY
