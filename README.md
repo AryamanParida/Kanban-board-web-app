@@ -2,8 +2,6 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## State based on display. - Grouping by Priority is selected. (NO SORTING HAS BEEN APPLIED)
-![image](https://github.com/AryamanParida/Kanban-board-application/assets/77320949/0e78cc8a-3ac8-4108-a1a0-5d5dfb09fa5c)
 
 ## Display state: GROUPING BY STATUS AND APPLYING SORTING BASED ON PRIORITY
 ![image](https://github.com/AryamanParida/Kanban-board-application/assets/77320949/b9e031a4-e5b3-42f2-8244-bf3fd8cf9375)
