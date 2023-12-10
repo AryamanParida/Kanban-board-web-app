@@ -14,7 +14,7 @@ function App() {
   });
   const [sortOption, setSortOption] = useState(() => 
   {
-    return sessionStorage.getItem('sortOption') || 'none';
+    return sessionStorage.getItem('sortOption') || 'priority';
   });
   const dropdownRef = useRef(null);
 
@@ -239,7 +239,6 @@ function App() {
               <div className='ddn_opt_1'>
                 <label className='opt'>Ordering</label>
                 <select className="ord" value={sortOption} onChange={(e) => setSortOption(e.target.value)}>
-                  <option value="none">None</option>
                   <option value="priority">Priority</option>
                   <option value="title">Title</option>
                 </select>
